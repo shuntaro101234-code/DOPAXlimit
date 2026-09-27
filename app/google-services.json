@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026093000739",
+    "project_id": "dopax-limit",
+    "storage_bucket": "dopax-limit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026093000739:android:954b49e14e149e88efe996",
+        "android_client_info": {
+          "package_name": "com.example.dopax_limit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-2ZFQ1F5SO2DZ4GQkAjBTriTX4MwcHGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
